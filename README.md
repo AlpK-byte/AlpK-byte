@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlpK-byte
 - 👀 I’m interested in exchange and coding.
-- 🌱 I’m currently learning phyton
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me -
 
